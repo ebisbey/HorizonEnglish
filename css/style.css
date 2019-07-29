@@ -18,7 +18,7 @@ h1, h2{
 /*header area*/
 .top-header{
 	background: #fff !important;
-	position: fixed;
+	/* position: fixed; */
 	width: 100%;
 	z-index: 99999;
 }
@@ -54,10 +54,10 @@ h1, h2{
 .navbar-toggle span{
 	color: #fff;
 }
-/* ul.nav{
+ul.nav{
 	margin: 0;
 	padding: 0;
-} */
+}
 .navbar-default .navbar-nav>li>a {
  	font-size: 24px;
 	color: #000;
