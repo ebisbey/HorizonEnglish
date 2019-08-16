@@ -247,6 +247,7 @@ li a.active{
 	font-family: 'Open Sans', sans-serif;
 	padding: 0 25px;
 	padding-bottom: 30px;
+
 }
 .single-about-detail:hover .about-details{
 	background: #3a9dca;
@@ -271,8 +272,8 @@ li a.active{
 .service p{
 	font-size: 25px;
 	color: #fff;
-	margin-top: 20px;
-	margin-bottom: 20px;
+	margin-top: 0px;
+	margin-bottom: 10px;
 }
 .service h4{
 	font-size: 24px;
@@ -299,7 +300,7 @@ li a.active{
 .single-service h3{
 	margin-top: 10px;
 	color: #fff;
-	padding-bottom: 50px;
+	padding-bottom: 10px;
 	position:relative;
 }
 .service-img img{
