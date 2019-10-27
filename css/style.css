@@ -407,6 +407,7 @@ li a.active{
 /*contact section*/
 .contact-caption{
 	background: #3a9dca;
+	position: relative;
 }
 .contact-heading h2{
 	color: #fff;
