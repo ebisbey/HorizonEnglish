@@ -405,7 +405,7 @@ li a.active{
 
 
 /*contact section*/
-.container{position: relative;}
+.container{position: absolute;}
 .contact-caption{
 	background: #3a9dca;
 	position: relative;
