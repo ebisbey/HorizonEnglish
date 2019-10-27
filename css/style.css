@@ -410,6 +410,7 @@ li a.active{
 .contact-caption{
 	background: #3a9dca;
 	position: relative;
+	overflow: auto;
 }
 .contact-heading h2{
 	color: #fff;
