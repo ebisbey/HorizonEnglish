@@ -405,7 +405,8 @@ li a.active{
 
 
 /*contact section*/
-
+.clearfix{
+	overflow: auto;}
 .contact-caption{
 	background: #3a9dca;
 	position: relative;
