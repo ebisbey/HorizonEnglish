@@ -518,6 +518,7 @@ li a.active{
 	background: rgba(0, 0, 0, 0.51);
 }
 .contact-caption{
+	position:relative;
 	margin-top: 300px;
 }
 
