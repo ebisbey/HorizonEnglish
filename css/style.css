@@ -516,7 +516,7 @@ li a.active{
 	height: 100%;
 	margin-top: 0px;
 	left: 0;
-	margin-top: -950px;
+	margin-top: 0px;
 	background: rgba(0, 0, 0, 0.51);
 }
 .contact-caption{
