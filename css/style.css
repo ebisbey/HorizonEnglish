@@ -794,7 +794,7 @@ responsive area
 	}
 	.contact{
 		height:1050px;
-		margin-top: -950px;
+		margin-top: 0px;
 	}
 	.contact-heading h2 {
 	  font-size: 50px;
