@@ -409,6 +409,7 @@ li a.active{
 .contact-caption{
 	background: #3a9dca;
 	position: absolute;
+	margin-top: 1000px;
 	overflow: auto;
 }
 .contact-heading h2{
@@ -519,7 +520,7 @@ li a.active{
 }
 .contact-caption{
 	position:relative;
-	margin-top: 1000px
+	margin-top: 1000px;
 	margin-top: 300px;
 }
 
