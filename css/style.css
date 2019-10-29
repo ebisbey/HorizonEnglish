@@ -520,8 +520,8 @@ li a.active{
 }
 .contact-caption{
 	position:relative;
-	margin-top: 1000px;
-	margin-top: 300px;
+	margin-top: 0px;
+	
 }
 
 /*footer*/
