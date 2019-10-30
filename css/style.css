@@ -182,6 +182,7 @@ li a.active{
 }
 .single-about-detail{
 	position: relative;
+	overflow: auto;
 }
 .pentagon-text h1{
 	font-size: 60px;
@@ -235,7 +236,7 @@ li a.active{
 	-moz-transition: all .7s ease 0s;
 	-o-transition: all .7s ease 0s;
 	-ms-transition: all .7s ease 0s;
-	overflow: auto;
+
 }
 .about-details h3{
 	font-size: 36px;
