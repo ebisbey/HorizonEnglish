@@ -173,7 +173,7 @@ li a.active{
 	margin-top: 50px;
 }
 .about h4{
-	font-size: 24px;
+	font-size: 35px;
 	color: #737373;
 	margin-bottom: 45px;
 }
@@ -235,6 +235,7 @@ li a.active{
 	-moz-transition: all .7s ease 0s;
 	-o-transition: all .7s ease 0s;
 	-ms-transition: all .7s ease 0s;
+	overflow: auto;
 }
 .about-details h3{
 	font-size: 36px;
