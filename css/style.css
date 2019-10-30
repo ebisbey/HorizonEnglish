@@ -60,7 +60,7 @@ ul.nav{
 	padding: 0;
 }
 .navbar-default .navbar-nav>li>a {
- 	font-size: 27px;
+ 	font-size: 40px;
 	color: #000;
 	text-transform: uppercase;
 	transition: all .7s ease 0s;
@@ -521,7 +521,7 @@ li a.active{
 .contact-caption{
 	position:relative;
 	margin-top: 0px;
-	
+
 }
 
 /*footer*/
